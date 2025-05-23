@@ -1,0 +1,9 @@
+[package]
+name = "hello-new-pkg-4819372"
+version = "0.1.0-beta.1"
+edition = "2021"
+license = "MIT"
+description = "dummy test publish"
+
+
+[dependencies]
